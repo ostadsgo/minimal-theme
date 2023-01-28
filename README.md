@@ -5,7 +5,7 @@ Minimal color theme for neovim.
 ## Install
 
 ```lua
-use "ostatdsgo/minimal.nvim"
+use "ostatdsgo/minimal-theme.nvim"
 ```
 
 ## Activate
